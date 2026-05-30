@@ -1,0 +1,62 @@
+[
+  {
+    "id": "claude-opus-4-8",
+    "title": "Claude Opus 4.8",
+    "date": "2026-05-28",
+    "url": "https://cdn.sanity.io/files/4zrzovbb/website/c886650a2e96fc0925c805a1a7ca77314ccbf4a6.pdf"
+  },
+  {
+    "id": "claude-opus-4-7",
+    "title": "Claude Opus 4.7",
+    "date": "2026-04",
+    "url": "https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf"
+  },
+  {
+    "id": "claude-mythos-preview",
+    "title": "Claude Mythos Preview",
+    "date": "2026-04",
+    "url": "https://cdn.sanity.io/files/4zrzovbb/website/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf"
+  },
+  {
+    "id": "claude-sonnet-4-6",
+    "title": "Claude Sonnet 4.6",
+    "date": "2026-02",
+    "url": "https://www-cdn.anthropic.com/bbd8ef16d70b7a1665f14f306ee88b53f686aa75.pdf"
+  },
+  {
+    "id": "claude-opus-4-6",
+    "title": "Claude Opus 4.6",
+    "date": "2026-02",
+    "url": "https://www-cdn.anthropic.com/6a5fa276ac68b9aeb0c8b6af5fa36326e0e166dd.pdf"
+  },
+  {
+    "id": "claude-opus-4-5",
+    "title": "Claude Opus 4.5",
+    "date": "2025-11",
+    "url": "https://www-cdn.anthropic.com/bf10f64990cfda0ba858290be7b8cc6317685f47.pdf"
+  },
+  {
+    "id": "claude-haiku-4-5",
+    "title": "Claude Haiku 4.5",
+    "date": "2025-10",
+    "url": "https://www-cdn.anthropic.com/7aad69bf12627d42234e01ee7c36305dc2f6a970.pdf"
+  },
+  {
+    "id": "claude-sonnet-4-5",
+    "title": "Claude Sonnet 4.5",
+    "date": "2025-09",
+    "url": "https://www-cdn.anthropic.com/963373e433e489a87a10c823c52a0a013e9172dd.pdf"
+  },
+  {
+    "id": "claude-opus-4-1",
+    "title": "Claude Opus 4.1",
+    "date": "2025-08",
+    "url": "https://www-cdn.anthropic.com/9fa30625273bafdf5af82c93719d7ca606485a16.pdf"
+  },
+  {
+    "id": "claude-sonnet-4-and-opus-4",
+    "title": "Claude Sonnet 4 and Opus 4",
+    "date": "2025-05",
+    "url": "https://www-cdn.anthropic.com/07b2a3f9902ee19fe39a36ca638e5ae987bc64dd.pdf"
+  }
+]
