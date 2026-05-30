@@ -1,10 +1,10 @@
-# Claude 系列系统卡片中文翻译
+# Claude 系列系统卡片大陆简体中文翻译
 
-批量下载 Anthropic Claude 4 系列系统卡片及 Mythos Preview 的官方 PDF，提取文本与配图、AI 翻译为中文 Markdown，并渲染成一个带模型/卡片切换的共享 HTML 阅读器。
+批量下载 Anthropic Claude 4 系列系统卡片及 Mythos Preview 的官方 PDF，提取文本与配图、AI 翻译为大陆简体中文(zh-CN)Markdown，并渲染成一个带模型/卡片切换的共享 HTML 阅读器。
 
 ## 在线阅读
 
-**🔗 [在线查看器 https://connectedgraph.github.io/claude-system-cards/](https://connectedgraph.github.io/claude-system-cards/)**
+**🔗 [在线查看器 https://connectedgraph.github.io/claude-system-cards-zh/](https://connectedgraph.github.io/claude-system-cards-zh/)**
 
 左侧下拉切换卡片，自动生成目录导航、页码跳转、夜间模式，正文内嵌原文配图。
 
